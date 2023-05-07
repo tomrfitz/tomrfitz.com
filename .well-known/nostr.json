@@ -1,0 +1,18 @@
+{
+  "names": {
+    "old": "595e19f788eb2992bc50bbd45a2c07c9b109f9cf88910f88cec1ccd12b4ca21b",
+    "_": "5bf634ac59e70f275b092256e14ab86b20d4dedddf480037e5f880ee3407976a",
+    "tomrfitz": "5bf634ac59e70f275b092256e14ab86b20d4dedddf480037e5f880ee3407976a"
+  },
+  "relays": {
+    "5bf634ac59e70f275b092256e14ab86b20d4dedddf480037e5f880ee3407976a": [
+      "wss://eden.nostr.land",
+      "wss://nostr-pub.wellorder.net",
+      "wss://nostr-pub.semisol.dev",
+      "wss://nostr.zebedee.cloud",
+      "wss://relay.damus.io",
+      "wss://snort.social",
+      "wss://nostr.oxtr.dev"
+    ]
+  }
+}
